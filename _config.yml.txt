@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-title: Rana Ian
+title: Mohammad Rana
 description: Bio
