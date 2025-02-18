@@ -1,10 +1,11 @@
-# Rana Ian - Senior Software Engineer
+# Mohammad Rana - Noobs Software Engineer
 
 Results-driven software engineer with expertise building high-performance, production-grade systems in Go and Rust. Specialist in distributed systems, compiler development, language processing, database drivers, and time series optimization.
 
 ## Technical Skills
 
 - **Languages:** Go, Rust, SQL
+-**Cyber Experts :** All Social Media
 - **Specialties:** Distributed systems, Compilers & Language Processing, Database Systems, High-Performance Computing, SIMD Optimization
 
 ## Notable Open Source Work
